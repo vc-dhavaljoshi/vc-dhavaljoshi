@@ -35,7 +35,7 @@
 * React + TypeScript Applications
 * Tailwind CSS & Modern UI Systems
 * Redis, Queue Systems & Event-Driven Architectures
-* OpenAI / Mistral AI Integrations
+* AI Integrations
 * Monaco Editor & WebContainers
 * Cloud & DevOps Workflows
 * Scalable API Development
